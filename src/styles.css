@@ -1,0 +1,14 @@
+.no_dot {
+    list-style-type: none;
+}
+
+.messageItem {
+    list-style-type: none;
+    padding: 10px 15px; /* 좌우 패딩 증가 */
+    margin-bottom: 50px; /* 아래쪽 마진 증가로 간격 조정 */
+    border-radius: 15px; /* 더 큰 둥근 모서리 */
+    font-size: 16px;
+    max-width: 80%;
+    word-wrap: break-word;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* 약간의 그림자 추가 */
+}
